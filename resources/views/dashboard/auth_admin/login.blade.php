@@ -67,7 +67,7 @@
                 </button>
 
             </div>
-            <img src="{{asset('auth/images/log3.svg')}}" class="image" alt="" />
+            <img src="{{asset('auth/images/auth_login.svg')}}" class="image" alt="" />
         </div>
 
 
