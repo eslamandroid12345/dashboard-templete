@@ -44,9 +44,6 @@
                 {{--start nav--}}
 
 
-
-
-
                 {{--end nav--}}
 
 
@@ -55,6 +52,8 @@
                         <i class="nav-icon fas fa-user-graduate"></i>
                         <p>
                            الطلاب
+                            <span class="badge badge-danger right">5</span>
+
                         </p>
                     </a>
                 </li>
@@ -90,7 +89,10 @@
                 <li class="nav-item">
                     <a href="#" class="nav-link">
                         <i class="fa fa-box-open nav-icon"></i>
-                        <p>الرسائل</p>
+                        <p>
+                             الرسائل
+                            <span class="badge badge-danger right">3</span>
+                        </p>
                     </a>
                 </li>
 
@@ -157,14 +159,9 @@
                                     <p>الشروط والاحكام</p>
                                 </a>
                             </li>
-
-
-
                         </ul>
                     </li>
-
             </ul>
-
 
         </nav>
         <!-- /.sidebar-menu -->

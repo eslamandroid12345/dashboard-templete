@@ -51,12 +51,12 @@
                                     </div>
 
                                     <div class="form-group col-md-6 col-12">
-                                        <label for="summernote">وصف الدوره باللغه العربيه</label>
+                                        <label for="summernote">محتوي الدوره باللغه العربيه</label>
                                         <textarea  name="description_ar" type="text" class="form-control" id="summernote"></textarea>
                                     </div>
 
                                     <div class="form-group col-md-6 col-12">
-                                        <label for="summernote2">وصف الدوره باللفه الانجليزيه</label>
+                                        <label for="summernote2">محتوي الدوره باللفه الانجليزيه</label>
                                         <textarea  name="description_en" type="text" class="form-control" id="summernote2"></textarea>
                                     </div>
 
@@ -76,7 +76,7 @@
 
 
                                     <div class="form-group col-md-4 col-12">
-                                        <label for="exampleInputName1">سوره الدوره</label>
+                                        <label for="exampleInputName1">صوره الدوره</label>
                                         <input name="image" type="file" class="form-control" id="exampleInputName1" placeholder="">
                                     </div>
 
@@ -120,33 +120,33 @@
                                     </div>
 
                                     <div class="form-group col-md-4 col-12">
-                                        <label for="exampleInputName1">duration <span class="optional">optional</span></label>
+                                        <label for="exampleInputName1">duration <span class="optional">اختياري</span></label>
                                         <input name="duration" type="number" class="form-control" id="exampleInputName1" >
                                     </div>
 
                                     <div class="form-group col-md-4 col-12">
-                                        <label for="exampleInputName1">whatsapp_link <span class="optional">optional</span></label>
+                                        <label for="exampleInputName1">لينك الواتساب <span class="optional">اختياري</span></label>
                                         <input name="whatsapp_link" type="text" class="form-control" id="exampleInputName1">
                                     </div>
 
                                     <div class="form-group col-md-4 col-12">
-                                        <label for="exampleInputName1">Telegram <span class="optional">optional</span></label>
+                                        <label for="exampleInputName1">لينك قناه التيلجرام للاستاذ <span class="optional">اختياري</span></label>
                                         <input name="telegram_link" type="text" class="form-control" id="exampleInputName1">
                                     </div>
 
                                     <div class="form-group col-md-4 col-12">
-                                        <label for="exampleInputName1">Telegram <span class="optional">optional</span></label>
+                                        <label for="exampleInputName1">لينك قناه التيليجرام للدوره <span class="optional">اختياري</span></label>
                                         <input name="telegram_channel_link" type="text" class="form-control" id="exampleInputName1">
                                     </div>
 
 
-
                                     <div class="form-group clearfix col-3">
                                         <div class="icheck-wetasphalt d-inline">
-                                            <input name="is_active" type="checkbox" id="checkboxPrimary3" checked="">
-                                            <label for="checkboxPrimary3">Active</label>
+                                            <input name="is_active" type="checkbox" id="checkboxPrimary3">
+                                            <label for="checkboxPrimary3">تفعيل الدوره</label>
                                         </div>
                                     </div>
+
 
                                 </div>
 
