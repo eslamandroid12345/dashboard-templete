@@ -127,7 +127,7 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-key"></i>
+                        <i class="nav-icon fas fa-city"></i>
                         <p>
                            المحافظات
                         </p>
@@ -137,7 +137,7 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-user-graduate"></i>
+                        <i class="nav-icon fas fa-building"></i>
                         <p>
                             المدن
 
@@ -147,7 +147,7 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-home nav-icon"></i>
+                        <i class="nav-icon fas fa-user-graduate"></i>
                         <p>
                             الطلاب
                             <span class="badge badge-danger right">10</span>
@@ -158,14 +158,14 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-home nav-icon"></i>
+                        <i class="fa fa-user nav-icon"></i>
                         <p>اولياء الامور</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-info nav-icon"></i>
+                        <i class="fa fa-spinner nav-icon"></i>
                         <p>الشاشه الافتتاحيه</p>
                     </a>
                 </li>
@@ -173,7 +173,7 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-bars nav-icon"></i>
+                        <i class="fa fa-sliders-h nav-icon"></i>
                         <p>البانر المتحرك</p>
                     </a>
                 </li>
@@ -182,14 +182,14 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="nav-icon fas fa-key"></i>
                         <p>الادوار والصلاحيات</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-users nav-icon"></i>
                         <p>موظفين لوحه التحكم</p>
                     </a>
                 </li>
@@ -197,7 +197,7 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-user-plus nav-icon"></i>
                         <p>حركات الموظفين
                             <span class="badge badge-danger right">2</span>
                         </p>
@@ -206,7 +206,7 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-box-open nav-icon"></i>
+                        <i class="fa fa-box nav-icon"></i>
                         <p>
                             الاقتراحات
                             <span class="badge badge-danger right">3</span>
@@ -216,7 +216,7 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-box-open nav-icon"></i>
+                        <i class="fa fa-bell nav-icon"></i>
                         <p>
                             الاشعارات
                             <span class="badge badge-danger right">5</span>
@@ -227,14 +227,14 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-info nav-icon"></i>
                         <p>مؤهلات الاستاذ</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-phone nav-icon"></i>
                         <p>هواتف السنتر</p>
                     </a>
                 </li>
@@ -243,42 +243,42 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-restroom nav-icon"></i>
                         <p>الصفوف الدراسيه</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-calendar nav-icon"></i>
                         <p>الفصول الدراسيه(التيرمات)</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-table nav-icon"></i>
                         <p>شهور الاشتراك</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-wallet nav-icon"></i>
                         <p>باقات الاشتراك</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-question nav-icon"></i>
+                        <i class="fa fa-toggle-on nav-icon"></i>
                         <p>كوبونات الخصم</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fa fa-box-open nav-icon"></i>
+                        <i class="fa fa-credit-card nav-icon"></i>
                         <p>
                            حركات الدفع
                             <span class="badge badge-danger right">3</span>
@@ -295,28 +295,28 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fas fa-edit nav-icon"></i>
+                        <i class="fas fa-file-pdf nav-icon"></i>
                         <p>المصادر والمراجع</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fas fa-edit nav-icon"></i>
+                        <i class="fas fa-calendar-check nav-icon"></i>
                         <p>الخطه الشهريه</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fas fa-edit nav-icon"></i>
+                        <i class="fas fa-signal nav-icon"></i>
                         <p>العد التنازلي</p>
                     </a>
                 </li>
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fas fa-edit nav-icon"></i>
+                        <i class="fas fa-user-tie nav-icon"></i>
                         <p>الدعم الفني</p>
                     </a>
                 </li>
@@ -324,7 +324,7 @@
 
                 <li class="nav-item">
                     <a href="#" class="nav-link">
-                        <i class="fas fa-edit nav-icon"></i>
+                        <i class="fas fa-laptop-code nav-icon"></i>
                         <p>مطورين البرنامج</p>
                     </a>
                 </li>
@@ -333,7 +333,7 @@
                 {{-- start slide down --}}
                 <li class="nav-item has-treeview">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-text-height"></i>
+                        <i class="nav-icon fas fa-video"></i>
                         <p>
                            قسم الفيديوهات
                             <i class="fas fa-angle-left right"></i>
@@ -344,14 +344,14 @@
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-bars nav-icon"></i>
+                                <i class="fa fa-video nav-icon"></i>
                                 <p>فيديوهات الاساسيات</p>
                             </a>
                         </li>
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-home nav-icon"></i>
+                                <i class="fa fa-file-video nav-icon"></i>
                                 <p>فيديوهات الشرح</p>
                             </a>
                         </li>
@@ -359,7 +359,7 @@
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-info nav-icon"></i>
+                                <i class="fa fa-photo-video nav-icon"></i>
                                 <p>فيديوهات المراجعه</p>
                             </a>
                         </li>
@@ -372,7 +372,7 @@
             {{-- start slide down --}}
             <li class="nav-item has-treeview">
                 <a href="#" class="nav-link">
-                    <i class="nav-icon fas fa-text-height"></i>
+                    <i class="nav-icon fas fa-question"></i>
                     <p>
                        بنك الاسئله
                         <i class="fas fa-angle-left right"></i>
@@ -383,14 +383,14 @@
 
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="fa fa-bars nav-icon"></i>
+                            <i class="fa fa-question nav-icon"></i>
                             <p>اسئله الفصول</p>
                         </a>
                     </li>
 
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="fa fa-home nav-icon"></i>
+                            <i class="fa fa-question-circle nav-icon"></i>
                             <p>اسئله الدروس</p>
                         </a>
                     </li>
@@ -398,21 +398,21 @@
 
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="fa fa-info nav-icon"></i>
+                            <i class="fa fa-photo-video nav-icon"></i>
                             <p>اسئله فيديوهات الشرح</p>
                         </a>
                     </li>
 
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="fa fa-info nav-icon"></i>
+                            <i class="fa fa-bars nav-icon"></i>
                             <p>اسئله الامتحانات الشامله</p>
                         </a>
                     </li>
 
                     <li class="nav-item">
                         <a href="#" class="nav-link">
-                            <i class="fa fa-info nav-icon"></i>
+                            <i class="fa fa-camera nav-icon"></i>
                             <p>اسئله الامتحانات الالايف</p>
                         </a>
                     </li>
@@ -425,7 +425,7 @@
                 {{-- start slide down --}}
                 <li class="nav-item has-treeview">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-text-height"></i>
+                        <i class="nav-icon fas fa-edit"></i>
                         <p>
                            الامتحانات
                             <i class="fas fa-angle-left right"></i>
@@ -443,7 +443,7 @@
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-home nav-icon"></i>
+                                <i class="fa fa-hand-paper nav-icon"></i>
                                 <p>امتحانات الدروس</p>
                             </a>
                         </li>
@@ -451,21 +451,21 @@
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-info nav-icon"></i>
+                                <i class="fa fa-photo-video nav-icon"></i>
                                 <p>امتحانات فيديوهات الشرح</p>
                             </a>
                         </li>
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-info nav-icon"></i>
+                                <i class="fa fa-columns nav-icon"></i>
                                 <p>الامتحانات الشامله</p>
                             </a>
                         </li>
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-info nav-icon"></i>
+                                <i class="fa fa-camera nav-icon"></i>
                                 <p> الامتحانات الالايف</p>
                             </a>
                         </li>
@@ -477,7 +477,7 @@
                 {{-- start slide down --}}
                 <li class="nav-item has-treeview">
                     <a href="#" class="nav-link">
-                        <i class="nav-icon fas fa-text-height"></i>
+                        <i class="nav-icon fas fa-newspaper"></i>
                         <p>
                             الامتحانات الورقيه
                             <i class="fas fa-angle-left right"></i>
@@ -488,14 +488,14 @@
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-bars nav-icon"></i>
+                                <i class="fa fa-chair nav-icon"></i>
                                 <p>القاعات</p>
                             </a>
                         </li>
 
                         <li class="nav-item">
                             <a href="#" class="nav-link">
-                                <i class="fa fa-home nav-icon"></i>
+                                <i class="fa fa-newspaper nav-icon"></i>
                                 <p>الامتحانات الورقيه</p>
                             </a>
                         </li>
