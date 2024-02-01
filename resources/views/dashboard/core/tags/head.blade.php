@@ -46,11 +46,10 @@
             color: #fff;
             text-transform: uppercase;
             font-weight: 600;
-            margin: 10px 0;
+            margin: 10px;
             cursor: pointer;
             transition: 0.5s;
             font-size: 20px;
-
         }
     </style>
 </head>

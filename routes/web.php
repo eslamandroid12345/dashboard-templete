@@ -36,3 +36,7 @@ Route::get('login/admin', function () {
 Route::get('register', function () {
     return view('dashboard.auth_user.register');
 });
+
+Route::get('home', function () {
+    return view('dashboard.home.home');
+});
